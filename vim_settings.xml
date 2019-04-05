@@ -1,0 +1,380 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks>
+      <mark key="V" line="122" column="4" filename="D:/IdeaProject/refactoring-improving-the-design-of-existing-code/src/main/java/chapter01/ExtractMethod.java" protocol="file" />
+      <mark key="H" line="37" column="0" filename="D:/IdeaProject/refactoring-improving-the-design-of-existing-code/src/main/java/chapter09/ReplaceNestedConditionalWithGuardClauses.java" protocol="file" />
+      <mark key="M" line="91" column="38" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" protocol="file" />
+    </globalmarks>
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1553009910538">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" timestamp="1553435959627">
+        <mark key="'" line="330" column="16" />
+      </file>
+      <file name="D:/IdeaProject/xiaovapp-main/src/com/xiaov/controller/TaoBaoAuthController.java" timestamp="1552554334959">
+        <mark key="'" line="48" column="16" />
+      </file>
+      <file name="D:/IdeaProject/refactoring-improving-the-design-of-existing-code/src/main/java/chapter09/ReplaceNestedConditionalWithGuardClauses.java" timestamp="1552544897119" />
+      <file name="D:/IdeaProject/jdk/src/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1552993134287">
+        <mark key="'" line="1123" column="28" />
+        <mark key="[" line="908" column="56" />
+        <mark key="]" line="908" column="27" />
+        <mark key="^" line="908" column="27" />
+        <mark key="." line="908" column="27" />
+      </file>
+      <file name="D:/IdeaProject/xiaovapp-main/resources/spring-common.xml" timestamp="1552558307293">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="63" />
+        <mark key="]" line="32" column="63" />
+        <mark key="." line="32" column="63" />
+        <mark key="^" line="32" column="66" />
+      </file>
+      <file name="D:/IdeaProject/xiaovapp-main/src/com/xiaov/redis/RedisManage.java" timestamp="1552558263514">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="14" />
+        <mark key="^" line="35" column="14" />
+        <mark key="." line="35" column="80" />
+      </file>
+      <file name="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/ServerStatusBeforeSplit.java" timestamp="1552127752983">
+        <mark key="'" line="24" column="8" />
+      </file>
+      <file name="D:/Development Tools/Java8/jdk1.8.0_144/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1553069194110">
+        <mark key="'" line="433" column="8" />
+        <mark key="[" line="433" column="11" />
+        <mark key="]" line="433" column="11" />
+      </file>
+      <file name="D:/IdeaProject/xiaovapp-console-seller/src/com/xiaov/util/KdniaoTrackQuery.java" timestamp="1552534058140">
+        <mark key="'" line="209" column="8" />
+      </file>
+      <file name="D:/IdeaProject/mall-master/mall-admin/src/main/java/com/macro/mall/service/impl/OmsOrderServiceImpl.java" timestamp="1552902470817">
+        <mark key="'" line="44" column="15" />
+      </file>
+      <file name="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" timestamp="1554462371286">
+        <mark key="'" line="25" column="31" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/StripedMap.java" timestamp="1552129180785">
+        <mark key="'" line="11" column="0" />
+      </file>
+      <file name="/fragment.js2" timestamp="1552552787406">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IdeaProject/algs4/src/main/java/edu/princeton/cs/algs4/AdjMatrixEdgeWeightedDigraph.java" timestamp="1553062369879">
+        <mark key="'" line="214" column="17" />
+        <mark key="[" line="208" column="13" />
+        <mark key="]" line="208" column="16" />
+        <mark key="." line="208" column="16" />
+        <mark key="^" line="208" column="16" />
+      </file>
+      <file name="D:/IdeaProject/refactoring-improving-the-design-of-existing-code/src/main/java/chapter01/ExtractMethod.java" timestamp="1552544897119" />
+      <file name="D:/IdeaProject/mall-master/mall-admin/src/main/java/com/macro/mall/controller/OmsOrderController.java" timestamp="1552902291891">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="D:/IdeaProject/xiaovapp-main/resources/spring-quartz.xml" timestamp="1552558324015">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/IndexingService.java" timestamp="1552384622009">
+        <mark key="'" line="14" column="13" />
+      </file>
+      <file name="D:/Development Tools/Java8/jdk1.8.0_144/src.zip!/java/nio/ByteBuffer.java" timestamp="1552227704271">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1552542978274">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IdeaProject/jdk/src/java/util/concurrent/Phaser.java" timestamp="1552994695014">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/Development Tools/Java8/jdk1.8.0_144/src.zip!/java/util/DualPivotQuicksort.java" timestamp="1553074102156">
+        <mark key="'" line="133" column="24" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="36" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="10" column="19" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="61" column="30" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="62" column="18" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="109" column="45" filename="D:/Development Tools/Java8/jdk1.8.0_144/src.zip!/java/util/DualPivotQuicksort.java" />
+      <jump line="127" column="16" filename="D:/Development Tools/Java8/jdk1.8.0_144/src.zip!/java/util/DualPivotQuicksort.java" />
+      <jump line="133" column="24" filename="D:/Development Tools/Java8/jdk1.8.0_144/src.zip!/java/util/DualPivotQuicksort.java" />
+      <jump line="118" column="40" filename="D:/Development Tools/Java8/jdk1.8.0_144/src.zip!/java/util/DualPivotQuicksort.java" />
+      <jump line="58" column="15" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="60" column="12" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="115" column="12" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="111" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="120" column="42" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="112" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="8" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="9" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="47" column="22" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="43" column="35" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="41" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="121" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="66" column="10" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="68" column="10" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="80" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="65" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="31" column="12" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="48" column="20" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="63" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="79" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="77" column="37" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="78" column="18" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="18" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="57" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="73" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="69" column="4" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="83" column="4" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="89" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="108" column="4" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="97" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="98" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="87" column="75" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="86" column="7" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="93" column="20" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="13" column="21" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="16" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="64" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="82" column="4" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="84" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="96" column="27" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="110" column="16" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="95" column="27" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="152" column="4" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="125" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="118" column="5" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="122" column="5" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="109" column="12" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="104" column="28" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="107" column="15" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="103" column="10" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="139" column="15" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="146" column="48" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="138" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="124" column="4" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="106" column="12" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="91" column="12" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="94" column="35" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="53" column="13" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="58" column="5" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="388" column="4" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="434" column="0" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="305" column="5" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="311" column="19" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="314" column="32" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="329" column="12" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="324" column="12" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="138" column="15" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="165" column="17" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="345" column="5" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="344" column="15" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="313" column="26" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="334" column="18" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="330" column="16" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="90" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="192" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="166" column="18" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="183" column="32" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="160" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="153" column="22" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="150" column="4" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="102" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="52" column="16" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="0" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="24" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="14" column="48" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="34" column="4" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="32" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="28" column="24" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="30" column="23" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="26" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="27" column="15" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="25" column="31" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxsZWZ0XD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcnJbaV0gXj0gYXJyW2tdOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGFyci5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBpZiAoYXJyW2ldID4gYXJyW2kgKyAxXSAmJiBhcnJbaV0gPCBiaSkKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxsZWZ0XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxsZWZ0XD4=</last-pattern>
+      <last-replace>Node</last-replace>
+      <last-substitute>LinkedQueue.Node</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxpbnRcPg==</entry>
+        <entry>public</entry>
+        <entry>r</entry>
+        <entry>count</entry>
+        <entry encoding="base64">XDxUSFJFU0hPTERcPg==</entry>
+        <entry encoding="base64">XDxDQVBBQ0lUWVw+</entry>
+        <entry>LinkedQueue.Node</entry>
+        <entry encoding="base64">XDx3aW50ZXJSYXRlXD4=</entry>
+        <entry encoding="base64">XDxCWVRFX0JVRl9GUk9NX1NPTUVXSEVSRVw+</entry>
+        <entry encoding="base64">XDxIdHRwQ29udGVudERlY29tcHJlc3Nvclw+</entry>
+        <entry encoding="base64">XDxub25mYWlyVHJ5QWNxdWlyZVw+</entry>
+        <entry encoding="base64">XDxBcnJheUxpc3RcPg==</entry>
+        <entry encoding="base64">XDxFTVBUWV9FTEVNRU5UREFUQVw+</entry>
+        <entry encoding="base64">XDxhcnJheWNvcHlcPg==</entry>
+        <entry encoding="base64">XDxJZFw+</entry>
+        <entry encoding="base64">XDxsZWZ0XD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>action Debug</entry>
+        <entry>action Run</entry>
+        <entry>actionlist</entry>
+        <entry>actionlist run</entry>
+        <entry>actionlist debug</entry>
+        <entry encoding="base64">bm5vcmVtYXAgemQgOmFjdGlvbiBEZWJ1Z0NsYXNzPENSPg==</entry>
+        <entry encoding="base64">bm5vcmVtYXAgenIgOmFjdGlvbiBSdW5DbGFzczxDUj4=</entry>
+        <entry>vsp</entry>
+        <entry>help q</entry>
+        <entry>a</entry>
+        <entry>qa</entry>
+        <entry>q!</entry>
+        <entry>action DebugClass</entry>
+        <entry>Q</entry>
+        <entry>qe</entry>
+        <entry>qo</entry>
+        <entry>action Find</entry>
+        <entry>w</entry>
+        <entry>action RunClass</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
