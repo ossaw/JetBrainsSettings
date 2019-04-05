@@ -52,8 +52,8 @@
       <file name="D:/IdeaProject/mall-master/mall-admin/src/main/java/com/macro/mall/service/impl/OmsOrderServiceImpl.java" timestamp="1552902470817">
         <mark key="'" line="44" column="15" />
       </file>
-      <file name="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" timestamp="1554462371286">
-        <mark key="'" line="25" column="31" />
+      <file name="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" timestamp="1554466621995">
+        <mark key="'" line="72" column="4" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -89,6 +89,9 @@
       <file name="/fragment.java" timestamp="1552542978274">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/IdeaProject/jcip-examples-src/README.md" timestamp="1554466642057">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProject/jdk/src/java/util/concurrent/Phaser.java" timestamp="1552994695014">
         <mark key="'" line="0" column="0" />
       </file>
@@ -97,9 +100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
-      <jump line="10" column="19" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
-      <jump line="61" column="30" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="62" column="18" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="109" column="45" filename="D:/Development Tools/Java8/jdk1.8.0_144/src.zip!/java/util/DualPivotQuicksort.java" />
       <jump line="127" column="16" filename="D:/Development Tools/Java8/jdk1.8.0_144/src.zip!/java/util/DualPivotQuicksort.java" />
@@ -187,16 +187,19 @@
       <jump line="150" column="4" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="102" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="52" column="16" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
-      <jump line="0" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="24" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="14" column="48" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="34" column="4" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="32" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="28" column="24" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
-      <jump line="30" column="23" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="26" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
-      <jump line="27" column="15" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="25" column="31" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="30" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="27" column="25" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="33" column="4" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="0" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="72" column="4" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
+      <jump line="0" column="0" filename="D:/IdeaProject/jcip-examples-src/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -374,6 +377,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
