@@ -23,11 +23,11 @@
       <file name="/Dummy.txt" timestamp="1554534175337">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProject/spmia-chapter5/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" timestamp="1554534475315">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="D:/IdeaProject/spmia-chapter5/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" timestamp="1554536284766">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/fragment.js2" timestamp="1552552787406">
         <mark key="[" line="0" column="0" />
@@ -38,10 +38,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
-      <jump line="31" column="12" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
-      <jump line="48" column="20" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
-      <jump line="63" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="79" column="0" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="77" column="37" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="78" column="18" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
@@ -136,15 +132,19 @@
       <jump line="80" column="0" filename="D:/IdeaProject/spmia-chapter5/licensing-service/src/main/java/com/thoughtmechanix/licenses/services/LicenseService.java" />
       <jump line="84" column="49" filename="D:/IdeaProject/spmia-chapter5/licensing-service/src/main/java/com/thoughtmechanix/licenses/services/LicenseService.java" />
       <jump line="57" column="8" filename="D:/IdeaProject/spmia-chapter5/licensing-service/src/main/java/com/thoughtmechanix/licenses/services/LicenseService.java" />
-      <jump line="19" column="5" filename="D:/IdeaProject/spmia-chapter5/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" />
       <jump line="20" column="0" filename="D:/IdeaProject/spmia-chapter5/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" />
+      <jump line="19" column="0" filename="D:/IdeaProject/spmia-chapter5/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" />
+      <jump line="14" column="4" filename="D:/IdeaProject/spmia-chapter5/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" />
+      <jump line="16" column="4" filename="D:/IdeaProject/spmia-chapter5/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" />
+      <jump line="0" column="0" filename="D:/IdeaProject/spmia-chapter5/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" />
+      <jump line="17" column="0" filename="D:/IdeaProject/spmia-chapter5/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBMb2FkQmFsYW5jZWQK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoYXJncy5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>CriteriaBuilder.In</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZWZ0XD4=</text>
@@ -153,25 +153,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcnJbaV0gXj0gYXJyW2tdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBMb2FkQmFsYW5jZWQK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoYXJncy5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXJncy5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBzIDogbGlzdCkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGxpc3Quc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGFyci5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBpZiAoYXJyW2ldID4gYXJyW2kgKyAxXSAmJiBhcnJbaV0gPCBiaSkKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmZvckVhY2goKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -181,10 +181,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGkgPSBJbnRlZ2VyLnZhbHVlT2YoaSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGkgPSBuZXcgSW50ZWdlcigxKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -236,8 +236,8 @@
         <entry>qe</entry>
         <entry>qo</entry>
         <entry>action Find</entry>
-        <entry>w</entry>
         <entry>action RunClass</entry>
+        <entry>w</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
