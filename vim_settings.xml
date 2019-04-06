@@ -59,12 +59,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProject/spmia-chapter3/confifserver/src/main/resources/config/organizationservice/organizationservice.yml" timestamp="1554543442099" />
-      <file name="/Dummy.txt" timestamp="1554544397955">
+      <file name="/Dummy.txt" timestamp="1554546810709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProject/spmia-chapter3/confifserver/src/main/resources/config/licensingservice/licensingservice-dev.yml" timestamp="1554543419101" />
-      <file name="D:/IdeaProject/spmia-chapter3/confsvr/src/main/resources/application.yml" timestamp="1554545351937">
-        <mark key="'" line="30" column="7" />
+      <file name="D:/IdeaProject/spmia-chapter3/confsvr/src/main/resources/application.yml" timestamp="1554546698469">
+        <mark key="'" line="6" column="0" />
         <mark key="[" line="23" column="20" />
         <mark key="]" line="23" column="33" />
         <mark key="^" line="23" column="33" />
@@ -103,7 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="12" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="94" column="35" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/sort/SortingAlgorithm.java" />
       <jump line="53" column="13" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
       <jump line="58" column="5" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
@@ -203,6 +202,7 @@
       <jump line="0" column="0" filename="D:/IdeaProject/spmia-chapter3/confifserver/src/main/resources/config/licensingservice/licensingservice.yml" />
       <jump line="3" column="6" filename="D:/IdeaProject/spmia-chapter3/confifserver/src/main/resources/config/licensingservice/licensingservice.yml" />
       <jump line="8" column="13" filename="D:/IdeaProject/spmia-chapter3/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" />
+      <jump line="6" column="0" filename="D:/IdeaProject/spmia-chapter3/confsvr/src/main/resources/application.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -253,7 +253,7 @@ redis.port: &quot;6379&quot;</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -285,7 +285,6 @@ redis.port: &quot;6379&quot;</text>
         <entry encoding="base64">XDxsZWZ0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action Debug</entry>
         <entry>action Run</entry>
         <entry>actionlist</entry>
         <entry>actionlist run</entry>
@@ -303,8 +302,9 @@ redis.port: &quot;6379&quot;</text>
         <entry>qo</entry>
         <entry>action Find</entry>
         <entry>action RunClass</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
