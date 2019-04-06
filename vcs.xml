@@ -70,6 +70,10 @@
           <option name="url" value="https://github.com/ossaw/spmia-chapter5" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/carnellj/spmia-chapter2" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProject" />
