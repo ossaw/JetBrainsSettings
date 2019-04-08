@@ -49,8 +49,8 @@
       <file name="D:/IdeaProject/spmia-chapter2/licensing-service/src/main/docker/Dockerfile" timestamp="1554536648596" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.4.RELEASE/spring-boot-autoconfigure-1.4.4.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class" timestamp="1554542334588" />
       <file name="D:/IdeaProject/spmia-chapter3/licensing-service/src/main/resources/schema.sql" timestamp="1554538409775" />
-      <file name="D:/IdeaProject/spmia-chapter3/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" timestamp="1554647231644">
-        <mark key="'" line="7" column="12" />
+      <file name="D:/IdeaProject/spmia-chapter3/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" timestamp="1554734172940">
+        <mark key="'" line="4" column="70" />
       </file>
       <file name="D:/IdeaProject/spmia-chapter5/licensing-service/src/main/java/com/thoughtmechanix/licenses/controllers/LicenseServiceController.java" timestamp="1554534267230">
         <mark key="'" line="42" column="4" />
@@ -59,7 +59,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProject/spmia-chapter3/confifserver/src/main/resources/config/organizationservice/organizationservice.yml" timestamp="1554543442099" />
-      <file name="/Dummy.txt" timestamp="1554555987126">
+      <file name="/Dummy.txt" timestamp="1554734154239">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProject/spmia-chapter3/confifserver/src/main/resources/config/licensingservice/licensingservice-dev.yml" timestamp="1554543419101" />
@@ -104,7 +104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="5" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
       <jump line="388" column="4" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
       <jump line="434" column="0" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
       <jump line="305" column="5" filename="D:/IdeaProject/jdk/src/java/util/concurrent/LinkedBlockingQueue.java" />
@@ -204,6 +203,7 @@
       <jump line="6" column="0" filename="D:/IdeaProject/spmia-chapter3/confsvr/src/main/resources/application.yml" />
       <jump line="11" column="28" filename="D:/IdeaProject/spmia-chapter3/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" />
       <jump line="7" column="12" filename="D:/IdeaProject/spmia-chapter3/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" />
+      <jump line="4" column="70" filename="D:/IdeaProject/spmia-chapter3/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
