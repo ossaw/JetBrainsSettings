@@ -2,14 +2,96 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/TimedPutTakeTest.java" timestamp="1554816932259">
+        <mark key="'" line="48" column="16" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+      </file>
+      <file name="D:/IdeaProject/jcip-examples-src/.gitignore" timestamp="1554816948030" />
+    </filemarks>
+    <jumps>
+      <jump line="38" column="8" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/TimedPutTakeTest.java" />
+      <jump line="46" column="16" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/TimedPutTakeTest.java" />
+      <jump line="2" column="7" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/TimedPutTakeTest.java" />
+      <jump line="16" column="18" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/TimedPutTakeTest.java" />
+      <jump line="24" column="16" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/TimedPutTakeTest.java" />
+      <jump line="5" column="18" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/TimedPutTakeTest.java" />
+      <jump line="22" column="20" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/TimedPutTakeTest.java" />
+      <jump line="48" column="16" filename="D:/IdeaProject/jcip-examples-src/src/net/jcip/examples/TimedPutTakeTest.java" />
+    </jumps>
+    <registers>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>action Find</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
