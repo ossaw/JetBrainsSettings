@@ -3,14 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProject/spmia-chapter3/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" timestamp="1554819465478">
+      <file name="/Class.txt.ft" timestamp="1554820879667">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="3" column="16" />
+      </file>
+      <file name="D:/IdeaProject/spmia-chapter3/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java" timestamp="1554820882596">
         <mark key="'" line="12" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="D:/IdeaProject/spmia-chapter3/confsvr/src/main/resources/application.yml" timestamp="1554819364725">
         <mark key="'" line="16" column="5" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="/CSS File.txt.ft" timestamp="1554820783290">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1554820894066">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -28,14 +41,17 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgYWxsb3ctb3ZlcnJpZGU6IGZhbHNlCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYWxsb3ctb3ZlcnJpZGU6IGZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">YQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
       </register>
     </registers>
     <search>
@@ -53,6 +69,36 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
