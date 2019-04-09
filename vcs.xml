@@ -82,6 +82,10 @@
           <option name="url" value="https://gitlab.ccyonyou.com/ccyy/honda/DmsmbProject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ossaw/jcip-examples-src" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProject" />
